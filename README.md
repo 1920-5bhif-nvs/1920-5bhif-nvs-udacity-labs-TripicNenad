@@ -7,3 +7,4 @@ This repository serves as a collection of all the lessons I have done from this 
  - [Lesson 03 - Fragments, Navigation, Animations, Safe arguments](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-TripicNenad/tree/master/Lesson03_Trivia)
  - [Lesson 04 - Lifecycles, Logging, onSaveInstance](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-TripicNenad/tree/master/Lesson04_Dessert_Pusher)
  - [Lesson 05 - App Architecture, LiveData, Lifecycles, ViewModels, Buzzer, Data Binding](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-TripicNenad/tree/master/Lesson05_Guess_it)
+ - [Lesson 06 - Persistence, DAO, Room, Transformation maps, Multithreading, Coroutines](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-TripicNenad/tree/master/Lesson06_Sleep_Tracker)
