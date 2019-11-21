@@ -9,3 +9,4 @@ This repository serves as a collection of all the lessons I have done from this 
  - [Lesson 05 - App Architecture, LiveData, Lifecycles, ViewModels, Buzzer, Data Binding](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-TripicNenad/tree/master/Lesson05_Guess_it)
  - [Lesson 06 - Persistence, DAO, Room, Transformation maps, Multithreading, Coroutines](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-TripicNenad/tree/master/Lesson06_Sleep_Tracker)
  - [Lesson 07 - RecyclerView, RecyclerView Adapter, RecyclerView, ViewHolder. Refresh data with DiffUtil, Binding Adapter](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-TripicNenad/tree/master/Lesson07_Sleep_Tracker_RecyclerView)
+ - [Lesson 08 - REST consuming, Glide, Retrofit, Error handling, Parcel and Parcelables](https://github.com/1920-5bhif-nvs/1920-5bhif-nvs-udacity-labs-TripicNenad/tree/master/Lesson08_Mars_real-estate)
